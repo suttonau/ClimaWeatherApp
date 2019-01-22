@@ -1,8 +1,4 @@
-# Clima
-
-
-## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Clima.gif)
+# Clima App
 
 ## Fix for Cocoapods v1.0.1 and below
 
@@ -35,6 +31,4 @@ end
 	</dict>
 ```
 
-
-Copyright © The App Brewery
 
